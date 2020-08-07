@@ -1,3 +1,5 @@
+export { Github };
+
 class Github {
   constructor() {
     this.client_id = '16aa8c896b96fc6c8f18';
